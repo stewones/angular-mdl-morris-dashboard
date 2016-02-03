@@ -2,7 +2,7 @@
 
 Details on post
 
-- [Portuguese version](http://stpa.co/angularjs/2016/01/27/como-criar-uma-dashboard-com-angularjs-morrisjs-e-google-material-light.html)
+- [Portuguese version](http://stpa.co/angularjs/2016/02/03/como-criar-uma-dashboard-com-angularjs-morrisjs-e-google-material-light.html)
 - English version - soon
 
 
